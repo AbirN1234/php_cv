@@ -1,0 +1,216 @@
+.navbar {
+  
+    background-color: rgb(244, 100, 100);
+    /* background-color: rgb(26, 155, 194); */
+    height: 60px;
+}
+
+.navbar-nav {
+    text-align-last: center;
+}
+
+.navbar-collapse {
+  background-color: rgb(244, 100, 100);
+}
+
+.clr {
+    background-color: rgb(255, 255, 255);
+}
+
+.grayBox {
+    background-color: #cfda34;
+    margin: 20px 0;
+    height: 500px;
+    border-top: 4px solid #3498db;
+    border-bottom: 4px solid #5d1d87;
+}
+
+.tex1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .tex2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .tex3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+  .tex4 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .tex5 {
+    position: absolute;
+    top: 55%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+  }
+
+  .tex6 {
+    position: absolute;
+    top: 55%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+  }
+
+  .venu {
+      font-style: italic;
+      color: rgb(255, 187, 0);
+      font-size: 35px;
+  }
+
+  .ab {
+      font-size: 25px;
+  }
+
+  .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    /* height: 20px; */
+    width: 100%;
+    padding: 20px;
+    color: rgb(233, 221, 53);
+    text-align: center;
+  }
+
+  .footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 300px;
+    width: 100%;
+    background-color: darkolivegreen;
+    color: white;
+    text-align: center;
+ }
+
+ .box1 {
+    background-color: rgb(196, 170, 243);
+    width: 92%;
+    height:70%;
+    border: 10px solid rgb(26, 133, 26);
+    padding: 10px;
+    padding-right: 5px;
+    margin: 20px;
+   
+  }
+  
+  .box2 {
+    background-color: lightblue;
+    width: 92%;
+    height: 70%;
+    border: 10px solid rgb(143, 21, 92);
+    padding: 10px;
+    margin: 20px;
+  }
+  
+  .box3 {
+    background-color: rgb(196, 170, 243);
+    width: 92%;
+    height: 70%;
+    border: 10px solid rgb(27, 19, 138);
+    padding: 10px;
+    margin: 20px;
+  }
+  
+  .box4 {
+    background-color: lightcyan;
+    width: 92%;
+    height: 70%;
+    border: 10px solid rgb(26, 133, 26);
+    padding: 10px;
+    margin: 20px;
+  }
+
+  .box5 {
+    background-color: rgb(196, 170, 243);
+    width: 92%;
+    height:70%;
+    border: 10px solid blueviolet;
+    padding: 10px;
+    padding-right: 5px;
+    margin: 20px;
+   
+  }
+  
+  .box6 {
+    background-color: lightblue;
+    width: 92%;
+    height: 70%;
+    border: 10px solid rgb(111, 117, 22);
+    padding: 10px;
+    margin: 20px;
+  }
+  
+  .box7 {
+    background-color: rgb(196, 170, 243);
+    width: 92%;
+    height: 70%;
+    border: 10px solid rgb(151, 18, 18);
+    padding: 10px;
+    margin: 20px;
+  }
+  
+  .box8 {
+    background-color: lightcyan;
+    width: 92%;
+    height: 70%;
+    border: 10px solid rgb(236, 142, 17);
+    padding: 10px;
+    margin: 20px;
+  }
+
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  @media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+      width: 100%;
+    }
+  }
+
+
+  .cancelbtn {
+    padding: 14px 20px;
+    background-color: red;
+  }
+  
+  .signupbtn {
+    padding: 14px 20px;
+    background-color: green;
+  }
+  
+  .cancelbtn, .signupbtn {
+    float: left;
+    width: 20%;
+  }
+  
+
+
+  
+
+
+  
+
+
